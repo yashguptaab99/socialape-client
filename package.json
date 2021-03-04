@@ -45,5 +45,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://asia-south1-socialape-29435.cloudfunctions.net/api"
+  "proxy": "https://asia-south1-socialape-29435.cloudfunctions.net/api",
+  "homepage": "https://yashguptaab99.github.io/my-app"
 }
