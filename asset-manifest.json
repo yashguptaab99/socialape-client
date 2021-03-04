@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d9ee9ada.chunk.css",
-    "main.js": "/my-app/static/js/main.ea93cdbc.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ea93cdbc.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.5688f6cc.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.5688f6cc.js.map",
-    "static/js/2.a5219633.chunk.js": "/my-app/static/js/2.a5219633.chunk.js",
-    "static/js/2.a5219633.chunk.js.map": "/my-app/static/js/2.a5219633.chunk.js.map",
-    "static/js/3.3458d3bc.chunk.js": "/my-app/static/js/3.3458d3bc.chunk.js",
-    "static/js/3.3458d3bc.chunk.js.map": "/my-app/static/js/3.3458d3bc.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.d9ee9ada.chunk.css.map": "/my-app/static/css/main.d9ee9ada.chunk.css.map",
-    "static/js/2.a5219633.chunk.js.LICENSE.txt": "/my-app/static/js/2.a5219633.chunk.js.LICENSE.txt",
-    "static/media/no-img.2fda6558.png": "/my-app/static/media/no-img.2fda6558.png"
+    "main.css": "/socialape-client/static/css/main.d9ee9ada.chunk.css",
+    "main.js": "/socialape-client/static/js/main.ea93cdbc.chunk.js",
+    "main.js.map": "/socialape-client/static/js/main.ea93cdbc.chunk.js.map",
+    "runtime-main.js": "/socialape-client/static/js/runtime-main.86004142.js",
+    "runtime-main.js.map": "/socialape-client/static/js/runtime-main.86004142.js.map",
+    "static/js/2.a5219633.chunk.js": "/socialape-client/static/js/2.a5219633.chunk.js",
+    "static/js/2.a5219633.chunk.js.map": "/socialape-client/static/js/2.a5219633.chunk.js.map",
+    "static/js/3.3458d3bc.chunk.js": "/socialape-client/static/js/3.3458d3bc.chunk.js",
+    "static/js/3.3458d3bc.chunk.js.map": "/socialape-client/static/js/3.3458d3bc.chunk.js.map",
+    "index.html": "/socialape-client/index.html",
+    "static/css/main.d9ee9ada.chunk.css.map": "/socialape-client/static/css/main.d9ee9ada.chunk.css.map",
+    "static/js/2.a5219633.chunk.js.LICENSE.txt": "/socialape-client/static/js/2.a5219633.chunk.js.LICENSE.txt",
+    "static/media/no-img.2fda6558.png": "/socialape-client/static/media/no-img.2fda6558.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5688f6cc.js",
+    "static/js/runtime-main.86004142.js",
     "static/js/2.a5219633.chunk.js",
     "static/css/main.d9ee9ada.chunk.css",
     "static/js/main.ea93cdbc.chunk.js"
