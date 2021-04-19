@@ -2,7 +2,7 @@
 Social Media Site built using React and Firebase and for state management Redux
 
 ## Please check the deployed app at -  
-https://yashguptaab99.github.io/socialape-client/
+https://yashguptaab99.github.io/login
 
 # For localhost
 1) Clone the project
